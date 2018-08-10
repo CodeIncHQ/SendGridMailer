@@ -1,4 +1,4 @@
-# SendGrid Mailer library
+# SendGrid mailer library
 
 [SendGrid](https://sendgrid.com/) mailer for [codeinc/mailer](https://github.com/CodeIncHQ/Mailer).
 
