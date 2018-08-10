@@ -1,6 +1,6 @@
 # SendGrid Mailer library
 
-[SendGrid(https://sendgrid.com/) mailer for [codeinc/mailer](https://github.com/CodeIncHQ/Mailer).
+[SendGrid](https://sendgrid.com/) mailer for [codeinc/mailer](https://github.com/CodeIncHQ/Mailer).
 
 ## Installation
 
