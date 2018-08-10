@@ -1,0 +1,34 @@
+{
+  "name": "codeinc/sendgrid-mailer",
+  "version": "1.0.0",
+  "description": "Code Inc.'s SendGrid mailer",
+  "homepage": "https://github.com/CodeIncHQ/SendGridMailer",
+  "type": "library",
+  "license": "proprietary",
+  "require": {
+    "php": ">=7.1",
+    "codeinc/mailer": "^2.0",
+    "sendgrid/sendgrid": "^7.0"
+  },
+  "require-dev": {
+    "codeinc/error-renderer": "^1.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "CodeInc\\SendGridMailer\\": "src"
+    }
+  },
+  "authors": [
+    {
+      "name": "Joan Fabrégat",
+      "email": "joan@codeinc.fr",
+      "homepage": "https://www.codeinc.fr",
+      "role": "developer"
+    }
+  ],
+  "config": {
+    "preferred-install": {
+      "*": "dist"
+    }
+  }
+}
